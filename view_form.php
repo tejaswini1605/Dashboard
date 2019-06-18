@@ -26,7 +26,7 @@ include("header.php");
       <tr>
         <th>S.no</th>
         
-        <Th>Full Name</Th>
+        <th>Full Name</th>
         <th>Mobile No</th>
         <th>E-mail</th>
         <th>View </th>
