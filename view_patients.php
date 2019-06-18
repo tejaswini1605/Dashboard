@@ -8,7 +8,7 @@ include("header.php");
   <p> Patient File : All relevant details related to the individual patients</p>
   <hr/>
 
-                           <div class="form-group row">
+                          <div class="form-group row">
                               <label for="pat_name" class="col-sm-2 col-form-label">Patient Name :</label>
                               <div class="col-sm-6">
                                 
