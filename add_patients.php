@@ -1,8 +1,6 @@
 <?php 
 include("header.php");
-
-
- ?>
+?>
 <div class="container-fluid">
   <div class="col-md-7">
   <div class="card">
